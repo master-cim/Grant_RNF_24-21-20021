@@ -11,7 +11,7 @@
 
 ## РНФ проект  № 24-21-20021
 
-[![БазаДел](https://sun9-38.userapi.com/s/v1/ig2/NyzOoOIRbTbfNG74Uorihl5NkeN2cve5Ph5I1_PEhF8V1yO_RnkWiO_JSVgVklyq8Q3ahwpFOGWcn5c8pUoao_rk.jpg?quality=95&as=32x33,48x50,72x75,108x112,160x166,240x249,360x373,382x396&from=bu&u=tg9zQqY9rtgcHIXwyik9fwGd7LKPMDXyYeO3Sp7U3Ww&cs=320x332)](https://)
+[![БазаДел](https://sun9-38.userapi.com/s/v1/ig2/NyzOoOIRbTbfNG74Uorihl5NkeN2cve5Ph5I1_PEhF8V1yO_RnkWiO_JSVgVklyq8Q3ahwpFOGWcn5c8pUoao_rk.jpg?quality=95&as=32x33,48x50,72x75,108x112,160x166,240x249,360x373,382x396&from=bu&u=tg9zQqY9rtgcHIXwyik9fwGd7LKPMDXyYeO3Sp7U3Ww&cs=320x332)](https://basedeal.pythonanywhere.com/)
 
 
 ✨ Объектом исследования является модель состояний электросетевого оборудования.
@@ -31,7 +31,7 @@
 
 
 
-## :bust_in_silhouette: Автор проекта 
+## :bust_in_silhouette: Авторы проекта 
 ### :small_orange_diamond: Светлана  Петрова _(Svetlana Yu. Petrova)_
 ```html
 e-mail: master-cim@yandex.ru
@@ -39,7 +39,7 @@ e-mail: master-cim@yandex.ru
 ```html
 https://github.com/master-cim
 ```
-![Svetlana Yu. Petrova](https://sun9-5.userapi.com/impg/G-KmUqYd8SKbVr7jeVzeIlRh8lsbTmaSUTaHBw/CE-98blOBCo.jpg?size=500x501&quality=95&sign=74d83ffa8576a68a468dbbc9d4758dd1&type=album "Svetlana Yu. Petrova")
+![Svetlana Yu. Petrova](https://sun9-77.userapi.com/impg/dZdPEwfXu39rM-NcBdGO1R1HBLGyIQkQrzOfjA/CZjv8VEV_eM.jpg?size=400x438&quality=96&sign=252212e4db6459f7b39e0925160fadbf&type=album "Svetlana Yu. Petrova")
 
 ### :small_orange_diamond: Антон Швец _(Anton Shvec)_
 ### :small_orange_diamond: Арина Попова _(Arina Popova)_
