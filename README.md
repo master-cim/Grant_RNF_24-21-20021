@@ -40,3 +40,7 @@ e-mail: master-cim@yandex.ru
 https://github.com/master-cim
 ```
 ![Svetlana Yu. Petrova](https://sun9-5.userapi.com/impg/G-KmUqYd8SKbVr7jeVzeIlRh8lsbTmaSUTaHBw/CE-98blOBCo.jpg?size=500x501&quality=95&sign=74d83ffa8576a68a468dbbc9d4758dd1&type=album "Svetlana Yu. Petrova")
+
+### :small_orange_diamond: Антон Швец _(Anton Shvec)_
+### :small_orange_diamond: Арина Попова _(Arina Popova)_
+### :small_orange_diamond: Ксения Петрова _(Ksenia Petrova)_
