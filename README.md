@@ -11,7 +11,7 @@
 
 ## РНФ проект  № 24-21-20021
 
-[![БазаДел](https://sun9-38.userapi.com/s/v1/ig2/NyzOoOIRbTbfNG74Uorihl5NkeN2cve5Ph5I1_PEhF8V1yO_RnkWiO_JSVgVklyq8Q3ahwpFOGWcn5c8pUoao_rk.jpg?quality=95&as=32x33,48x50,72x75,108x112,160x166,240x249,360x373,382x396&from=bu&u=tg9zQqY9rtgcHIXwyik9fwGd7LKPMDXyYeO3Sp7U3Ww&cs=320x332)](https://basedeal.pythonanywhere.com/)
+[![БазаДел](https://sun9-38.userapi.com/s/v1/ig2/NyzOoOIRbTbfNG74Uorihl5NkeN2cve5Ph5I1_PEhF8V1yO_RnkWiO_JSVgVklyq8Q3ahwpFOGWcn5c8pUoao_rk.jpg?quality=95&as=32x33,48x50,72x75,108x112,160x166,240x249,360x373,382x396&from=bu&u=tg9zQqY9rtgcHIXwyik9fwGd7LKPMDXyYeO3Sp7U3Ww&cs=80x83)](https://basedeal.pythonanywhere.com/)
 
 
 ✨ Объектом исследования является модель состояний электросетевого оборудования.
