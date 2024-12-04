@@ -1,0 +1,6 @@
+MATCH
+(e: Equipment:Transformer:Apriori),
+(u: FuncUnit:Transformer:Apriori)
+
+CREATE 
+(e)-[: CONSISTS_OF {role:'Composition'}]->(u)

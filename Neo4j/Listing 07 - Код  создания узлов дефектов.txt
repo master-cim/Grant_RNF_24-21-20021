@@ -1,0 +1,4 @@
+LOAD CSV WITH HEADERS FROM 'file:///defect.csv' AS line FIELDTERMINATOR ';'
+CREATE
+ (:Defects:Transformer {class:line.class, eqv:line.eqv, title:line.title, description:line.description})
+ 

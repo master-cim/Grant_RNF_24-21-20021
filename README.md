@@ -20,27 +20,27 @@
 
 ## :computer: Технологии в проекте
 
-:small_blue_diamond: Python  
+:small_blue_diamond: Python
+:small_blue_diamond: Neo4j  
 :small_blue_diamond: Django  
 :small_blue_diamond: Django REST Framework  
 :small_blue_diamond: Docker  
 :small_blue_diamond: Continuous Integration  
 :small_blue_diamond: Continuous Deployment  
 :small_blue_diamond: Telegram notification message  
-:small_blue_diamond: Neo4j
-
 
 
 ## :bust_in_silhouette: Авторы проекта 
-### :small_orange_diamond: Светлана  Петрова _(Svetlana Yu. Petrova)_
+### :small_orange_diamond:Руководитель проекта - Светлана  Петрова _(Svetlana Yu. Petrova)_
 ```html
 e-mail: master-cim@yandex.ru
 ```
 ```html
 https://github.com/master-cim
 ```
-![Svetlana Yu. Petrova](https://sun9-77.userapi.com/impg/dZdPEwfXu39rM-NcBdGO1R1HBLGyIQkQrzOfjA/CZjv8VEV_eM.jpg?size=400x438&quality=96&sign=252212e4db6459f7b39e0925160fadbf&type=album "Svetlana Yu. Petrova")
+![Svetlana Yu. Petrova](https://sun9-7.userapi.com/s/v1/ig2/cO7W9M8xFVws-ADVOQqUGx1WUUNTCmvsVhEeCMtGAFm2XCwQ4OwujLZTbX2s2JIez5znHSCRwLHxKvBBUn-_KLHD.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x319,360x479,480x639,540x718,640x852,720x958,962x1280&from=bu&u=XgeTsRQwrWBYKlG-SBiemDeDyjWY9Fr7AD4ugwftOT8&cs=100x133 "Svetlana Yu. Petrova")
 
+Исполнители:
 ### :small_orange_diamond: Антон Швец _(Anton Shvec)_
 ### :small_orange_diamond: Арина Попова _(Arina Popova)_
 ### :small_orange_diamond: Ксения Петрова _(Ksenia Petrova)_

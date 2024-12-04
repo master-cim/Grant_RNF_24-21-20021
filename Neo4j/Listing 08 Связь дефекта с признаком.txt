@@ -1,0 +1,108 @@
+MATCH
+(a:Defects:Transformer {title:'Mg01'}),
+(b:DicFeatures { class: 'F12'})
+WHERE b.eqv IN ['PT25', 'PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:''}]->(a)
+
+MATCH
+(a:Defects:Transformer {title:'Wn01'}),
+(b:DicFeatures { class: 'F10'})
+WHERE b.eqv IN ['PT12', 'PT15', 'PT16', 'PT17', 'PT19', 'PT21', 'PT22', 'PT23', 'PT24', 'PT25', 'PT26', 'PT27']
+CREATE (b)-[: STATE  { role: 'Association', created:''}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'O02'}),
+(b:DicFeatures { class: 'F13'})
+WHERE b.eqv IN ['PT15', 'PT18', 'PT21', 'PT22',  'PT24', 'PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'I01'}),
+(b:DicFeatures { class: 'F01'})
+WHERE b.eqv IN ['PT21']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'CG01'}),
+(b:DicFeatures { class: 'F11'})
+WHERE b.eqv IN ['PT11', 'PT12', 'PT14','PT15', 'PT17', 'PT22','PT27']
+CREATE (b)-[: STATE  { role: 'Association', created:''}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'CG02'}),
+(b:DicFeatures { class: 'F11'})
+WHERE b.eqv IN ['PT12', 'PT22','PT27']
+CREATE (b)-[: STATE  { role: 'Association', created:''}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'R01'}),
+(b:DicFeatures { class: 'F02'})
+WHERE b.eqv IN ['PT11', 'PT12', 'PT14','PT15', 'PT16', 'PT21', 'PT22','PT23', 'PT24', 'PT25', 'PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+MATCH
+(a:Defects:Transformer {title:'R02'}),
+(b:DicFeatures { class: 'F02'})
+WHERE b.eqv IN ['PT21', 'PT24']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'Th01'}),
+(b:DicFeatures { class: 'F03'})
+WHERE b.eqv IN ['PT11', 'PT15', 'PT17', 'PT18', 'PT22','PT23', 'PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'T01'}),
+(b:DicFeatures { class: 'F04'})
+WHERE b.eqv IN ['PT11', 'PT12', 'PT13','PT14','PT15', 'PT16', 'PT17', 'PT18', 'PT20','PT21', 'PT22','PT23', 'PT24', 'PT25', 'PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'Ex01'}),
+(b:DicFeatures { class: 'F05'})
+WHERE b.eqv IN ['PT12', 'PT14','PT15', 'PT16', 'PT17', 'PT18', 'PT20','PT21', 'PT22','PT23', 'PT25', 'PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'Ex02'}),
+(b:DicFeatures { class: 'F05'})
+WHERE b.eqv IN ['PT12', 'PT13','PT16', 'PT17', 'PT18', 'PT20']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'AD01'}),
+(b:DicFeatures { class: 'F06'})
+WHERE b.eqv IN ['PT12', 'PT15', 'PT17', 'PT18', 'PT22','PT23','PT24','PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'AD02'}),
+(b:DicFeatures { class: 'F06'})
+WHERE b.eqv IN ['PT11','PT12', 'PT14','PT15', 'PT22','PT23','PT24','PT27']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'AD03'}),
+(b:DicFeatures { class: 'F06'})
+WHERE b.eqv IN ['PT13', 'PT14','PT15', 'PT16','PT21','PT25','PT26']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)
+
+
+MATCH
+(a:Defects:Transformer {title:'TA03'}),
+(b:DicFeatures { class: 'F08'})
+WHERE b.eqv IN ['PT11','PT12','PT13', 'PT14','PT15', 'PT16','PT17','PT18','PT19','PT20','PT21','PT25','PT26', 'PT27']
+CREATE (b)-[: STATE  { role: 'Association', created:'04.12.2024'}]->(a)

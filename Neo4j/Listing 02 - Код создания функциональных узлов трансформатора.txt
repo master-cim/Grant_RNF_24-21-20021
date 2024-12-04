@@ -1,0 +1,15 @@
+CREATE 
+(contGroup: FuncUnit:Transformer:Apriori { class: 'Контактная группа', title:'СontGroup'}),
+(windings: FuncUnit:Transformer:Apriori { class: 'Обмотки трансформатора', title:'Windings'}),
+(magnCirc: FuncUnit:Transformer:Apriori { class: 'Магнитопровод', title:'MagnCirc'}),
+(windWire: FuncUnit:Transformer:Apriori { class: 'Обмоточный провод ПБН', title:'WindWire'}),
+(thrmFilt: FuncUnit:Transformer:Apriori { class: 'Термосифонный фильтр', title:'ThrmFilt' }),
+(radiator: FuncUnit:Transformer:Apriori { class: 'Радиатор', title:'Radiator' }),
+(tank: FuncUnit:Transformer:Apriori { class: 'Бак', title:'Tank'}),
+(expand: FuncUnit:Transformer:Apriori { class: 'Расширитель', title:'Expand'}),
+(airDryer: FuncUnit:Transformer:Apriori { class: 'Воздухоосушитель', title:'AirDryer'}),
+(safetPipe: FuncUnit:Transformer:Apriori { class: 'Предохранительная труба', title:'SafetPipe'}),
+(thrmAlrm: FuncUnit:Transformer:Apriori { class: 'Термосигнализатор', title:'ThrmAlrm'}),
+(manovac: FuncUnit:Transformer:Apriori { class: 'Мановакууметр', title:'Manovac'}),
+(oil: FuncUnit:Transformer:Apriori { class: 'Масло', title:'Oil'}),
+(inputs: FuncUnit:Transformer:Apriori { class: 'Вводы', title:'Inputs'})

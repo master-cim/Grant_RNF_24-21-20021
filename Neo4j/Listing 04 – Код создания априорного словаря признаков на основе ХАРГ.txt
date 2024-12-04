@@ -1,0 +1,13 @@
+CREATE 
+(DGA:DicFeatures:Apriori { class: 'DGA', h2:'', c2h2:'', ch4:'',c2h4:'',c2h6:'',co:'',co2:'',o2:'',n2:''}), 
+(PhysChemical:DicFeatures:Apriori { class: ' PhysChemical', brvoltOil:'', moisture:'', numAcid:'', pointFlash:'', mechImpur:'', antioxidant:'', tangDlLoss:''})
+
+MATCH 
+(u: FuncUnit:Transformer:Apriori{ title:'Oil'}),
+(e: DicFeatures:Apriori{ class: 'DGA'})
+CREATE (u)-[: METERING  { role: 'Realization', created:''}]->(e)
+
+MATCH 
+(o: FuncUnit:Transformer:Apriori{ title:'Oil'}),
+(p: DicFeatures:Apriori{ class: ' PhysChemical'})
+CREATE (o)-[: METERING  { role: 'Realization', created:''}]->(p)

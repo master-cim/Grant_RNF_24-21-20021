@@ -1,0 +1,2 @@
+CREATE 
+(e: Equipment:Transformer:Apriori { class: 'ТМГ-400/20/0,4', vn: 20, vv: 0.4, ratedFrequency: 50, lossXX: 0.8,  lossKZ: 5.4, power: 400,  currentXX: 0.6, powerKZ: 6.5, title:''})

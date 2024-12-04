@@ -1,0 +1,17 @@
+LOAD CSV FROM 'file:///Fitch.csv' AS line FIELDTERMINATOR ';'
+CREATE
+ (:DicFeatures {class:'F01', eqv:line[0],f01:toIntegerOrNull(line[2])}),
+ (:DicFeatures {class:'F02', eqv:line[0],f02:toIntegerOrNull(line[4]), f03:toIntegerOrNull(line[5]), f04:toIntegerOrNull(line[6]), f05:toIntegerOrNull(line[7]), f06:toIntegerOrNull(line[8])}),
+ (:DicFeatures {class:'F03', eqv:line[0],f07:toIntegerOrNull(line[10]), f08:toIntegerOrNull(line[11])}),
+ (:DicFeatures {class:'F04', eqv:line[0],f09:toIntegerOrNull(line[13]), f10:toIntegerOrNull(line[14])}),
+(:DicFeatures {class:'F05', eqv:line[0],f11:toIntegerOrNull(line[16]), f12:toIntegerOrNull(line[17])}),
+(:DicFeatures {class:'F06', eqv:line[0],f13:toIntegerOrNull(line[19]), f14:toIntegerOrNull(line[20]), f15:toIntegerOrNull(line[21])}),
+(:DicFeatures {class:'F07', eqv:line[0],f16:toIntegerOrNull(line[23]), f17:toIntegerOrNull(line[24])}),
+(:DicFeatures {class:'F08', eqv:line[0],f18:toIntegerOrNull(line[26]), f19:toIntegerOrNull(line[27]), f20:toIntegerOrNull(line[28])}),
+(:DicFeatures {class:'F09', eqv:line[0],f21:toIntegerOrNull(line[30])}),
+(:DicFeatures {class:'F10', eqv:line[0],f22:toIntegerOrNull(line[32]), f23:toIntegerOrNull(line[33]), f24:toIntegerOrNull(line[34]), f25: toFloatOrNull(line[35]), f26: toFloatOrNull(line[36]), f27:toFloatOrNull(line[37])}),
+(:DicFeatures {class:'F11', eqv:line[0],f28:toFloatOrNull(line[39]), f29:toFloatOrNull(line[40]), f30:toFloatOrNull(line[41]), f31:toFloatOrNull(line[42]), f32:toFloatOrNull(line[43]), f33:toFloatOrNull(line[44]), f34:toFloatOrNull(line[45]), f35:toFloatOrNull(line[46]), f36:toFloatOrNull(line[47]), f37:toFloatOrNull(line[48]), f38:toIntegerOrNull(line[49])}),
+(:DicFeatures {class:'F12', eqv:line[0],f39:toIntegerOrNull(line[51]), f40:toIntegerOrNull(line[52]), f41:toIntegerOrNull(line[53]), f42:toIntegerOrNull(line[54]), f43:toIntegerOrNull(line[55])}),
+(:DicFeatures {class:'F13', eqv:line[0],f44:toFloatOrNull(line[57]), f45:toIntegerOrNull(line[58]), f46:toFloatOrNull(line[59]), f47:toIntegerOrNull(line[60]), f48:toIntegerOrNull(line[61]), f49:toIntegerOrNull(line[62]), f50:toIntegerOrNull(line[63]), f51:toFloatOrNull(line[64])}),
+(:DicFeatures {class:'F14', eqv:line[0],f52:toIntegerOrNull(line[66])}),
+(:DicFeatures {class:'F15', eqv:line[0],f55:toIntegerOrNull(line[68])})
