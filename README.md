@@ -15,6 +15,11 @@
 
 ![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge1.png?raw=true)
 ![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge2.png?raw=true)
+![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge3.png?raw=true)
+![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge4.png?raw=true)
+![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge5.png?raw=true)
+![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge6.png?raw=true)
+![Онтология](https://github.com/master-cim/Grant_RNF_24-21-20021/blob/main/Neo4j/Imge7.png?raw=true)
 
 ✨ Объектом исследования является модель состояний электросетевого оборудования.
 
